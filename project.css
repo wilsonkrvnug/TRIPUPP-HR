@@ -29,7 +29,7 @@
 .btn {
   background-color: #ddd;
   border: none;
-  color: black;
+  color: pink;
   padding: 5px 20px;
   text-align: center;
   text-decoration: none;
@@ -98,7 +98,7 @@ input[type="submit"] {
 /* Facebook */
 .fa-facebook {
   background: #3b5998;
-  color: white;
+  color: yellow;
   border-radius: 50%;
 }
 
