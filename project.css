@@ -3,13 +3,6 @@
   width: 100%;
   background: linear-gradient(
     170deg,
-    rgb(182, 62, 146) 25%,
-    rgb(34, 70, 136) 50%,
-    white 40%,
-    white
-  );
-}
-#e {
   height: 100%;
   width: 100%;
   background: linear-gradient(
@@ -29,7 +22,7 @@
 .btn {
   background-color: #ddd;
   border: none;
-  color: black;
+  color: pink;
   padding: 5px 20px;
   text-align: center;
   text-decoration: none;
@@ -98,7 +91,7 @@ input[type="submit"] {
 /* Facebook */
 .fa-facebook {
   background: #3b5998;
-  color: white;
+  color: yellow;
   border-radius: 50%;
 }
 
