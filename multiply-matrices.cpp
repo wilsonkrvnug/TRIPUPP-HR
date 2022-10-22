@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Edit MACROs here, according to your Matrix Dimensions for
+// Edit MACROs here, according to your Matrix Dimensions
 // mat1[R1][C1] and mat2[R2][C2]
 #define R1 2 // number of rows in Matrix-1
 #define C1 2 // number of columns in Matrix-1
@@ -31,7 +31,7 @@ void mulMat(int mat1[][C1], int mat2[][C2])
 	}
 }
 
-// Driver code
+// Driver code here
 int main()
 {
 	// R1 = 4, C1 = 4 and R2 = 4, C2 = 4 (Update these
